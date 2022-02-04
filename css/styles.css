@@ -197,3 +197,15 @@ nav{
     display: block;
 }
 
+/********** RESPONSIVE **********/
+
+@media(max-width:576px){
+    html{
+        font-size: 12px;
+    }
+    .contentHeader{
+        font-size: 14px;
+    }
+    
+}
+
